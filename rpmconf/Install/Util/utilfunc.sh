@@ -2326,6 +2326,9 @@ getInstallPackages() {
           askYN "Install $i" "N"
         fi
 
+      elif [ $i = "zimbra-imapd" ]; then
+        askYN "Install $i (BETA - for evaluation only)" "N"
+
       else
         askYN "Install $i" "N"
       fi
