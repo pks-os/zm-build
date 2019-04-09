@@ -19,7 +19,7 @@ BUILD_NO                = 2009
 %GIT_OVERRIDES          = zm-help.branch=snickers
 %GIT_OVERRIDES          = zm-zimlets.branch=snickers
 %GIT_OVERRIDES          = zm-oauth-social.tag=8.8.9.p3
-%GIT_OVERRIDES          = zm-admin-console.tag=8.8.9.p3
+%GIT_OVERRIDES          = zm-admin-console.tag=8.8.9.p4
 %GIT_OVERRIDES          = zm-zcs-lib.branch=snickers
 %GIT_OVERRIDES          = zm-nicps.branch=snickers
 
